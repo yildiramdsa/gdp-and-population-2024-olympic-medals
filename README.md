@@ -4,6 +4,7 @@ This project explores the relationship between a country’s population size and
 
 In this project, we began with **data preprocessing** to clean and transform the dataset, ensuring it was ready for analysis. We then conducted a **correlation analysis** to explore the relationships between population, GDP per capita, and the total number of medals won, finding moderate positive correlations. Moving on to **regression analysis**, we built models to quantify how well these socioeconomic factors predict medal counts, revealing that neither population nor GDP per capita alone is a strong predictor. We performed **clustering and PCA analysis** to gain deeper insights, allowing us to group countries based on their Olympic performance and visualize these clusters effectively. These steps collectively led us to conclude that **while population and GDP per capita have some influence, other factors, such as sports infrastructure and government support, play significant roles in determining Olympic success**.
 
+![2024 Medal Distribution Correlation Analysis](https://github.com/yildiramdsa/gdp_and_population_2024_olympic_medals/blob/main/images/2024_medal_distribution_correlation_analysis.png)
 
 
 
