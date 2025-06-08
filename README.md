@@ -1,5 +1,8 @@
 # GDP & Population: 2024 Olympic Medals
 
+**Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+
 This project explores the relationship between a country's population size and GDP per capita and its success in the 2024 Olympic Games. By analyzing these variables, we aim to understand how they influence the total number of medals won by different countries. The study also involves clustering countries based on their Olympic performance and socioeconomic context, providing insights into patterns and trends affecting their athletic achievements. Through this analysis, we seek to uncover the extent to which economic and demographic factors contribute to Olympic success.
 
 ![GDP & Population: 2024 Olympic Medals](https://github.com/yildiramdsa/gdp_and_population_2024_olympic_medals/blob/main/images/gdp_and_population_2024_olympic_medals.png)
